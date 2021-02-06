@@ -31,10 +31,8 @@ const copyFile = () => {
         message: "Stylesheet created!" 
         });
         });
-});
-    };
-
-    
+     });
+    };      
 
 
 module.exports = { writeFile, copyFile };
